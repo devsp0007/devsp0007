@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-driven recommendation engines.<br>🌱 I’m currently learning advanced Data Visualization and ML deployment.<br>👯 I’m looking to collaborate on Open Source Data Science projects.<br>💬 Ask me about: Python, ML basics, or my Restaurant Management project.<br>⚡ Fun fact: I love optimizing algorithms for efficiency.
+🔭 I’m currently working on AI-driven recommendation engines.<br>🌱 I’m currently learning advanced Data Visualization and ML deployment.<br>👯 I’m looking to collaborate on Open Source Data Science projects.<br>💬 Ask me about: Python, ML basics,JAVA , Javascript.<br>⚡ Fun fact: I love optimizing algorithms for efficiency.
 
 
 ## 🌐 Socials:
